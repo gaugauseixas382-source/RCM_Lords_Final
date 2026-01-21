@@ -38,7 +38,7 @@ https://github.com/gaugauseixas382-source/RCM_Lords_Final/
 
 ## 📂 Estrutura do Projeto
 
-/RCM_Lords_Final
+
 /index.html
 /sobre.html
 /albuns.html
