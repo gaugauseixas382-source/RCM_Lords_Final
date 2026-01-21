@@ -38,3 +38,20 @@ https://github.com/gaugauseixas382-source/RCM_Lords_Final/
 
 ## 📂 Estrutura do Projeto
 
+rcm-lords-website/
+│
+├── index.html
+├── sobre.html
+├── albuns.html
+├── tour.html
+├── contactos.html
+│
+├── css/
+│   └── styles.css
+│
+├── js/
+│   └── script.js
+│
+├── img/
+│   └── (todas as imagens)
+
