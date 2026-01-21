@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="pt">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Tour — RCM LORDS</title>
+<meta name="description" content="Datas e locais dos próximos concertos.">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+<link href="css/styles.css" rel="stylesheet"></head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+  <div class="container">
+    <a class="navbar-brand" href="index.html">RCM LOR<span style="color:#e50914">DS</span></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navMenu">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+        <li class="nav-item"><a class="nav-link" href="index.html">Início</a></li>
+        <li class="nav-item"><a class="nav-link" href="sobre.html">Sobre</a></li>
+        <li class="nav-item"><a class="nav-link" href="albuns.html">Álbuns</a></li>
+        <li class="nav-item"><a class="nav-link" href="tour.html">Tour</a></li>
+        <li class="nav-item"><a class="nav-link" href="contactos.html">Contactos</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<div style="height:70px"></div>
+
+<main class="container my-5">
+  <h1>Próximos Concertos</h1>
+  <p class="lead">Compra bilhetes e vem assistir ao vivo.</p>
+  <div class="row g-4">
+    <div class="col-md-6">
+      <div class="card p-3">
+        <img src="img/tour1.jpg" alt="Coliseu Lisboa" class="album-cover mb-3">
+        <h5>Coliseu — Lisboa</h5>
+        <p class="small text-muted">20 Novembro 2025 — 21:30</p>
+        <a href="#" class="btn btn-primary">Comprar Bilhetes</a>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="card p-3">
+        <img src="img/tour2.jpg" alt="Porto" class="album-cover mb-3">
+        <h5>Super Bock — Porto</h5>
+        <p class="small text-muted">05 Dezembro 2025 — 22:00</p>
+        <a href="#" class="btn btn-primary">Comprar Bilhetes</a>
+      </div>
+    </div>
+  </div>
+</main>
+
+
+<footer>
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-6">
+        <p class="mb-1">&copy; <span id="year">2025</span> RCM LORDS</p>
+        <p class="small mb-0">Contacto: info@rcmlords.example | Tel: +351 900 000 000</p>
+      </div>
+      <div class="col-md-6 text-md-end">
+        <a href="#" class="me-3" aria-label="Facebook"><i class="fab fa-facebook fa-lg"></i></a>
+        <a href="#" class="me-3" aria-label="Instagram"><i class="fab fa-instagram fa-lg"></i></a>
+        <a href="#" aria-label="YouTube"><i class="fab fa-youtube fa-lg"></i></a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script>document.getElementById('year') && (document.getElementById('year').textContent = new Date().getFullYear());</script>
+</body>
+</html>
