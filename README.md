@@ -34,7 +34,7 @@ Este projeto consiste num site responsivo e multipágina, focado na apresentaç�
 ## 🚀 Demo
 
 🔗 Demo online (GitHub Pages):  
-https://teu-usuario.github.io/rcm-lords-website/
+https://gaugauseixas382.github.io/rcm-lords-website/
 
 ## 📂 Estrutura do Projeto
 
