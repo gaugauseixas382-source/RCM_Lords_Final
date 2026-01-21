@@ -1,4 +1,4 @@
-# RCM LORDS — Website Oficial
+# RCM_Lords_Final
 
 Website institucional desenvolvido para a banda **RCM LORDS**, com o objetivo de apresentar a identidade do grupo, discografia, datas de concertos e um formulário de contacto funcional.
 
@@ -34,7 +34,7 @@ Este projeto consiste num site responsivo e multipágina, focado na apresentaç�
 ## 🚀 Demo
 
 🔗 Demo online (GitHub Pages):  
-https://gaugauseixas382.github.io/rcm-lords-website/
+https://github.com/gaugauseixas382-source/RCM_Lords_Final/
 
 ## 📂 Estrutura do Projeto
 
