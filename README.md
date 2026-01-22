@@ -38,6 +38,7 @@ https://github.com/gaugauseixas382-source/RCM_Lords_Final/
 
 ## 📂 Estrutura do Projeto
 
+<pre>
 RCM_Lords_Final/
 ├── index.html
 ├── sobre.html
@@ -57,3 +58,5 @@ RCM_Lords_Final/
 │   ├── tour1.jpg
 │   └── tour2.jpg
 └── README.md
+</pre>
+
