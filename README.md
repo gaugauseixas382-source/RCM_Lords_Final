@@ -38,12 +38,22 @@ https://github.com/gaugauseixas382-source/RCM_Lords_Final/
 
 ## 📂 Estrutura do Projeto
 
-
-/index.html
-/sobre.html
-/albuns.html
-/tour.html
-/contactos.html
-/styles.css
-/scripts.js
-/images/
+RCM_Lords_Final/
+├── index.html
+├── sobre.html
+├── albuns.html
+├── tour.html
+├── contactos.html
+├── styles.css
+├── scripts.js
+├── images/
+│   ├── banda.jpg
+│   ├── membro1.jpg
+│   ├── membro3.jpg
+│   ├── membro4.jpg
+│   ├── album1.jpg
+│   ├── album2.jpg
+│   ├── album3.jpg
+│   ├── tour1.jpg
+│   └── tour2.jpg
+└── README.md
